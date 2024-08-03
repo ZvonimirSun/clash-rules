@@ -1,0 +1,4 @@
+payload:
+  # 内容：Steam 下载
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamserver.net
