@@ -1,0 +1,4 @@
+payload:
+  - PROCESS-NAME,WXWork.exe,DIRECT
+  - PROCESS-NAME,wwmapp.exe,DIRECT
+  - PROCESS-NAME,WXWorkWeb.exe,DIRECT
