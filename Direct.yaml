@@ -5,3 +5,6 @@ payload:
   - PROCESS-NAME,WXWork.exe
   - PROCESS-NAME,wwmapp.exe
   - PROCESS-NAME,WXWorkWeb.exe
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,rustdesk.exe
