@@ -29,4 +29,4 @@ payload:
   # Xbox
   # URL-REGEX,assets\d+\.xboxlive\.(com|cn)
   # JetBrains
-  - DOMAIN-SUFFIX,download-cdn.jetbrains.com
+  #- DOMAIN-SUFFIX,download-cdn.jetbrains.com
