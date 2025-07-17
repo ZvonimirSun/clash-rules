@@ -8,3 +8,4 @@ payload:
   #- PROCESS-NAME,tailscale.exe
   #- PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,rustdesk.exe
+  - DOMAIN-SUFFIX,dpdns.org
