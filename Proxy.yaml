@@ -2,3 +2,4 @@ payload:
   - IP-CIDR,221.228.32.13/32
   - DOMAIN,steamcommunity.com
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,linux.do
