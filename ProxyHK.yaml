@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,clickme.net
   - DOMAIN-SUFFIX,dpdns.org
-  - DOMAIN-SUFFIX,linux.do
+  # - DOMAIN-SUFFIX,linux.do
