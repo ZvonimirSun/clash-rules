@@ -1,0 +1,5 @@
+name: 自定义 DNS Nameserver
+desc: 将 DNS nameserver 完全替换为自定义地址
+dns:
+  nameserver: #!replace
+    - 192.168.3.253
