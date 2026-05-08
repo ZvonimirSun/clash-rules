@@ -8,3 +8,4 @@ payload:
   - PROCESS-NAME,WeMailNode_x64.exe
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,WeChatAppEx.exe
+  - DOMAIN-SUFFIX,seagm.com
