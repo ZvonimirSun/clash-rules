@@ -10,3 +10,4 @@ payload:
   - PROCESS-NAME,WeChatAppEx.exe
   - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,claudecode.net.cn
